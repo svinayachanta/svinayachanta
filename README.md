@@ -3,7 +3,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 💻 &nbsp;Experienced Data Engineer with over 5 years of expertise in Software Engineering, Data Engineering, and Data Science, specializing in full-stack development, machine learning, and cloud-based solutions.
+- 💻 &nbsp;Experienced Software Engineer with over 5 years of expertise in software engineering, data engineering, and data science, specializing in full-stack development, machine learning, and cloud-based solutions.
 - 🎓 &nbsp;Graduate with a Master’s degree in Management Information Systems, specializing in Data Analytics and Information Systems, and a Bachelor's degree in Computer Science.
 - 🌱 &nbsp;Passionate about creating scalable, innovative solutions and exploring new technologies.
 - 🌐 &nbsp;Currently seeking opportunities in Software Engineering, Data Engineering, Data Analysis, and Data Science.
