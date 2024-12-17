@@ -16,8 +16,6 @@
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;
@@ -38,7 +36,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=FF6C37)&nbsp;
 
-
 #### Databases and Data Warehouses
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=red)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
@@ -51,11 +48,9 @@
 ![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-333333?style=flat&logo=apache-kafka)&nbsp;
 ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-333333?style=flat&logo=apache-spark)&nbsp;
 ![Amazon Redshift](https://img.shields.io/badge/-Amazon_Redshift-333333?style=flat&logo=amazon-aws&logoColor=FF9900)&nbsp;
-![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=google-cloud&logoColor=blue)&nbsp;
 ![Azure Synapse](https://img.shields.io/badge/-Azure_Synapse-333333?style=flat&logo=microsoft-azure&logoColor=0078D4)&nbsp;
 ![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=hadoop&logoColor=FFAB00)&nbsp;
 ![Hive](https://img.shields.io/badge/-Hive-333333?style=flat&logo=apache-hive&logoColor=yellow)&nbsp;
-
 
 #### BI and Visualization Tools
 ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)&nbsp;
@@ -87,7 +82,6 @@
 ![Data Structures and Algorithms](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-333333?style=flat)&nbsp;
 ![Statistics](https://img.shields.io/badge/-Statistics-333333?style=flat)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)&nbsp;
-![Agile](https://img.shields.io/badge/-Agile-333333?style=flat&logo=agile)&nbsp;
 ![Unix/Linux](https://img.shields.io/badge/-Unix/Linux-333333?style=flat&logo=linux)&nbsp;
 
 </div>
