@@ -16,9 +16,12 @@
 
 #### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599C)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)&nbsp;
 
@@ -26,12 +29,15 @@
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=spring-boot&logoColor=6DB33F)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)&nbsp;
+![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron&logoColor=47848f)&nbsp;
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=000000)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=FF6C37)&nbsp;
+
 
 #### Databases and Data Warehouses
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=red)&nbsp;
@@ -47,6 +53,7 @@
 ![Amazon Redshift](https://img.shields.io/badge/-Amazon_Redshift-333333?style=flat&logo=amazon-aws&logoColor=FF9900)&nbsp;
 ![BigQuery](https://img.shields.io/badge/-BigQuery-333333?style=flat&logo=google-cloud&logoColor=blue)&nbsp;
 ![Azure Synapse](https://img.shields.io/badge/-Azure_Synapse-333333?style=flat&logo=microsoft-azure&logoColor=0078D4)&nbsp;
+![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=hadoop&logoColor=FFAB00)&nbsp;
 ![Hive](https://img.shields.io/badge/-Hive-333333?style=flat&logo=apache-hive&logoColor=yellow)&nbsp;
 
 
@@ -84,6 +91,12 @@
 ![Unix/Linux](https://img.shields.io/badge/-Unix/Linux-333333?style=flat&logo=linux)&nbsp;
 
 </div>
+
+<!--
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)&nbsp;
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=spring-boot&logoColor=6DB33F)&nbsp;
+
+-->
 
 </div>
 
