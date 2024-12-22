@@ -19,9 +19,7 @@
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)&nbsp;
 
 #### Web Development
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
