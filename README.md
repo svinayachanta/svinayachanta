@@ -84,12 +84,6 @@
 
 </div>
 
-<!--
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)&nbsp;
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-333333?style=flat&logo=spring-boot&logoColor=6DB33F)&nbsp;
-
--->
-
 </div>
 
 ### ⚙️ &nbsp;GitHub Analytics
