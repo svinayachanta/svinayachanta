@@ -13,73 +13,46 @@
 
 <div style="flex: 1;">
 
-#### Programming Languages
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)&nbsp;
+#### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### Web Development
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)&nbsp;
-![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron&logoColor=47848f)&nbsp;
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=000000)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=FF6C37)&nbsp;
+#### 🏗️ Data Engineering & ETL
+![dbt](https://img.shields.io/badge/dbt-FB542B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0066B8?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Informatica](https://img.shields.io/badge/Informatica-E8572E?style=for-the-badge&logo=informaticacloud&logoColor=white)
 
-#### Databases and Data Warehouses
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=red)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)&nbsp;
+#### 🧊 Data Warehousing
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-008AD7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-#### Data Integration/ETL
-![Informatica](https://img.shields.io/badge/-Informatica-333333?style=flat&logo=informaticacloud&logoColor=white)&nbsp;
-![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-333333?style=flat&logo=apache-airflow)&nbsp;
-![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-333333?style=flat&logo=apache-kafka)&nbsp;
-![Apache Spark](https://img.shields.io/badge/-Apache_Spark-333333?style=flat&logo=apache-spark)&nbsp;
-![Amazon Redshift](https://img.shields.io/badge/-Amazon_Redshift-333333?style=flat&logo=amazon-aws&logoColor=FF9900)&nbsp;
-![Azure Synapse](https://img.shields.io/badge/-Azure_Synapse-333333?style=flat&logo=microsoft-azure&logoColor=0078D4)&nbsp;
-![Hadoop](https://img.shields.io/badge/-Hadoop-333333?style=flat&logo=hadoop&logoColor=FFAB00)&nbsp;
-![Hive](https://img.shields.io/badge/-Hive-333333?style=flat&logo=apache-hive&logoColor=yellow)&nbsp;
+#### 🧮 Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-#### BI and Visualization Tools
-![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)&nbsp;
-![Power BI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi)&nbsp;
-![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)&nbsp;
-![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)&nbsp;
+#### 🧠 Cloud & Infrastructure
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-#### DevOps and Infrastructure
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)&nbsp;
-![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)&nbsp;
-![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)&nbsp;
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-333333?style=flat&logo=github-actions)&nbsp;
-![Maven](https://img.shields.io/badge/-Maven-333333?style=flat&logo=apache-maven)&nbsp;
-![Jfrog](https://img.shields.io/badge/-Jfrog-333333?style=flat&logo=jfrog)&nbsp;
+#### 📊 BI & Observability
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
-#### Data Science and Analytics
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)&nbsp;
-![PySpark](https://img.shields.io/badge/-PySpark-333333?style=flat&logo=apache-spark&logoColor=orange)&nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)&nbsp;
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=matplotlib)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)&nbsp;
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333333?style=flat&logo=hugging-face)&nbsp;
+#### ⚙️ Dev Tools & Utilities
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-#### Other Tools and Skills
-![Data Structures and Algorithms](https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-333333?style=flat)&nbsp;
-![Statistics](https://img.shields.io/badge/-Statistics-333333?style=flat)&nbsp;
-![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)&nbsp;
-![Unix/Linux](https://img.shields.io/badge/-Unix/Linux-333333?style=flat&logo=linux)&nbsp;
 
 </div>
 
