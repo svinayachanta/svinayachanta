@@ -85,24 +85,25 @@
 ### 🏆 Certifications
 
 #### Cloud & Data Engineering
-- [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/)
-- [AWS Certified: Data Engineer – Associate](https://www.credly.com/badges/fc94c943-d7a9-443e-9b19-9fbb46aeab96)
-- [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/)
-- [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)
-- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/)
-- [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+- Microsoft Certified: Azure Data Engineer Associate  
+- AWS Certified: Data Engineer – Associate  
+- Databricks Lakehouse Fundamentals  
+- Microsoft Certified: Azure Data Fundamentals  
+- Microsoft Certified: Azure Fundamentals  
+- AWS Certified Cloud Practitioner  
 
 #### BI, Analytics & Visualization
-- [Microsoft Certified: Power Platform Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/)
-- [Tableau Desktop Specialist](https://www.credly.com/organizations/tableau)
-- [HackerRank SQL (Advanced)](https://www.hackerrank.com/certificates)
+- Microsoft Certified: Power Platform Fundamentals  
+- Tableau Desktop Specialist  
+- HackerRank SQL (Advanced)  
 
 #### Big Data & Spark (Udemy)
-- [Taming Big Data with Apache Spark and Python - Hands On!](https://www.udemy.com/certificate/UC-5cf11d72-a0a4-487f-b5c2-242debdf9c5a/)
-- [Spark and Python for Big Data with PySpark](https://www.udemy.com/certificate/UC-5bd4e169-05d4-46b0-9e7a-fd6f30660439/)
-- [The Ultimate Hands-On Hadoop](https://www.udemy.com/certificate/UC-8aedea8c-36e3-4d5a-9855-a5a17bed76fa/)
+- Taming Big Data with Apache Spark and Python - Hands On!  
+- Spark and Python for Big Data with PySpark  
+- The Ultimate Hands-On Hadoop  
 
 #### DevOps & Programming
-- [DevOps Project - CI/CD with Git, Jenkins, Ansible, Kubernetes](https://www.udemy.com/certificate/UC-2e2a2f1e-d20e-47b7-8b13-fd69adad6761/)
-- [The Complete SQL Bootcamp](https://www.udemy.com/certificate/UC-10e02a91-4b7c-4d21-b6ec-8822c36b41cb/)
-- [The Complete Python Bootcamp](https://www.udemy.com/certificate/UC-ce240f59-0870-4d96-854d-d8788ad73bef/)
+- DevOps Project - CI/CD with Git, Jenkins, Ansible, Kubernetes  
+- The Complete SQL Bootcamp  
+- The Complete Python Bootcamp  
+
