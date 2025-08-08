@@ -14,44 +14,57 @@
 <div style="flex: 1;">
 
 #### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
-#### 🏗️ Data Engineering & ETL
-![dbt](https://img.shields.io/badge/dbt-FB542B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0066B8?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Informatica](https://img.shields.io/badge/Informatica-E8572E?style=for-the-badge&logo=informaticacloud&logoColor=white)
+#### ⚙️ ETL / Data Engineering
+![dbt](https://img.shields.io/badge/dbt-FB542B?style=for-the-badge&logo=dbt)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0066B8?style=for-the-badge&logo=microsoft-azure)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazon-aws)
+![Informatica](https://img.shields.io/badge/Informatica-E8572E?style=for-the-badge&logo=informaticacloud)
+![REST API](https://img.shields.io/badge/REST%20API-6A5ACD?style=for-the-badge&logo=postman)
 
-#### 🧊 Data Warehousing
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-008AD7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
+#### 🧊 Cloud & Warehousing
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-008AD7?style=for-the-badge&logo=microsoft-azure)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-aws)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoft-azure)
+![Azure Storage](https://img.shields.io/badge/Azure%20Storage-0089D6?style=for-the-badge&logo=microsoft-azure)
 
-#### 🧮 Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+#### 📚 Databases
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+![Exadata](https://img.shields.io/badge/Exadata-E60000?style=for-the-badge&logo=oracle)
 
-#### 🧠 Cloud & Infrastructure
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+#### ☁️ Cloud & DevOps
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops)
+![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0066B8?style=for-the-badge&logo=microsoft-azure)
 
-#### 📊 BI & Observability
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+#### 📊 BI / Monitoring / Reporting
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+![Amazon QuickSight](https://img.shields.io/badge/Amazon_QuickSight-232F3E?style=for-the-badge&logo=amazon-aws)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
 
-#### ⚙️ Dev Tools & Utilities
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+#### 🧪 Research / Scientific Skills
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-505050?style=for-the-badge)
+![Parallel Computing](https://img.shields.io/badge/Parallel_Computing-00599C?style=for-the-badge)
+![Multithreading](https://img.shields.io/badge/Multithreading-4682B4?style=for-the-badge)
+
+#### 🔧 Tools & Utilities
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![Secure FTP](https://img.shields.io/badge/Secure_FTP-5C2D91?style=for-the-badge)
 
 
 </div>
