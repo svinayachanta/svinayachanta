@@ -1,87 +1,115 @@
-## 👋  &nbsp;Hi there, I'm Vinay! 
- 
-
-### 👨🏻‍💻 &nbsp;About Me
-
-- 💻 &nbsp;Experienced Software Engineer with over 5 years of expertise in software engineering, data engineering, and data science, specializing in full-stack development, machine learning, and cloud-based solutions.
-- 🎓 &nbsp;Graduate with a Master’s degree in Management Information Systems, specializing in Data Analytics and Information Systems, and a Bachelor's degree in Computer Science.
-- 🌱 &nbsp;Passionate about creating scalable, innovative solutions and exploring new technologies.
-
-### 🛠 &nbsp;Skills
-
-<div style="display: flex;">
-
-<div style="flex: 1;">
-
-#### 📜 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-#### ⚙️ ETL / Data Engineering
-![dbt](https://img.shields.io/badge/dbt-FB542B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0066B8?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Informatica](https://img.shields.io/badge/Informatica-E8572E?style=for-the-badge&logo=informaticacloud&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-#### ❄️ Cloud & Warehousing
-![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-008AD7?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Storage](https://img.shields.io/badge/Azure%20Storage-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-#### 🧮 Databases
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Exadata](https://img.shields.io/badge/Exadata-E60000?style=for-the-badge&logo=oracle&logoColor=white)
-
-#### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=for-the-badge&logo=databricks&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
-![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0066B8?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-#### 📊 BI / Monitoring / Reporting
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Amazon QuickSight](https://img.shields.io/badge/Amazon_QuickSight-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-#### 🔬 Research / Scientific Skills
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-505050?style=for-the-badge)
-![Parallel Computing](https://img.shields.io/badge/Parallel_Computing-00599C?style=for-the-badge)
-![Multithreading](https://img.shields.io/badge/Multithreading-4682B4?style=for-the-badge)
-
-#### 🔧 Tools & Utilities
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Secure FTP](https://img.shields.io/badge/Secure_FTP-5C2D91?style=for-the-badge)
-
-</div>
-
-</div>
-
-### ⚙️ &nbsp;GitHub Analytics
-
+<h1 align="center">👋 Hi, I'm Vinay Achanta</h1>
 <p align="center">
-<a href="https://github.com/svinayachanta">
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=svinayachanta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="140em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svinayachanta&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
+  <strong>Data Engineer @ Wasatch Global Investors</strong><br/>
+  M.S. in Information Systems | dbt • ADF • Snowflake • Azure • AWS | 6x Certified
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+---
+
+### 👨‍💻 About Me
+
+- 🧠 I build modern, scalable data engineering solutions using dbt, Snowflake, ADF, Databricks, and more.
+- 🌩️ Specialized in designing cloud-native ETL/ELT pipelines, data lakes, and data warehouse platforms.
+- 💼 Strong background in performance tuning, monitoring, and production-grade orchestration across Azure & AWS.
+- 🎓 M.S. in Management Information Systems (Data Modeling, Warehousing & Analytics).
+- 🧪 Data advocate with a passion for automation, observability, and storytelling via BI tools.
+
+---
+
+### 🛠️ Skills
+
+#### 📜 Programming & Scripting
+<div align="left">
+  <span style="background-color:#3776AB;color:white;padding:6px 12px;border-radius:20px;">Python</span>
+  <span style="background-color:#4479A1;color:white;padding:6px 12px;border-radius:20px;">SQL</span>
+  <span style="background-color:#276DC3;color:white;padding:6px 12px;border-radius:20px;">R</span>
+  <span style="background-color:#6F2DA8;color:white;padding:6px 12px;border-radius:20px;">Pandas</span>
+</div>
+
+#### ⚙️ ETL / Data Engineering
+<div align="left">
+  <span style="background-color:#FF6C37;color:white;padding:6px 12px;border-radius:20px;">REST API</span>
+  <span style="background-color:#FB542B;color:white;padding:6px 12px;border-radius:20px;">dbt</span>
+  <span style="background-color:#017CEE;color:white;padding:6px 12px;border-radius:20px;">Airflow</span>
+  <span style="background-color:#0078D4;color:white;padding:6px 12px;border-radius:20px;">ADF</span>
+  <span style="background-color:#232F3E;color:white;padding:6px 12px;border-radius:20px;">AWS Glue</span>
+  <span style="background-color:#E8572E;color:white;padding:6px 12px;border-radius:20px;">Informatica</span>
+</div>
+
+#### ❄️ Cloud & Warehousing
+<div align="left">
+  <span style="background-color:#56B9EB;color:white;padding:6px 12px;border-radius:20px;">Snowflake</span>
+  <span style="background-color:#008AD7;color:white;padding:6px 12px;border-radius:20px;">Azure Synapse</span>
+  <span style="background-color:#8C4FFF;color:white;padding:6px 12px;border-radius:20px;">Amazon Redshift</span>
+  <span style="background-color:#00B4D8;color:white;padding:6px 12px;border-radius:20px;">Azure Data Lake</span>
+  <span style="background-color:#1E88E5;color:white;padding:6px 12px;border-radius:20px;">Azure Storage</span>
+</div>
+
+#### 🧮 Databases
+<div align="left">
+  <span style="background-color:#CC2927;color:white;padding:6px 12px;border-radius:20px;">SQL Server</span>
+  <span style="background-color:#336791;color:white;padding:6px 12px;border-radius:20px;">PostgreSQL</span>
+  <span style="background-color:#F80000;color:white;padding:6px 12px;border-radius:20px;">Oracle</span>
+  <span style="background-color:#E60000;color:white;padding:6px 12px;border-radius:20px;">Exadata</span>
+</div>
+
+#### ☁️ Cloud & DevOps
+<div align="left">
+  <span style="background-color:#0078D4;color:white;padding:6px 12px;border-radius:20px;">Azure</span>
+  <span style="background-color:#232F3E;color:white;padding:6px 12px;border-radius:20px;">AWS</span>
+  <span style="background-color:#EF3E42;color:white;padding:6px 12px;border-radius:20px;">Databricks</span>
+  <span style="background-color:#623CE4;color:white;padding:6px 12px;border-radius:20px;">Terraform</span>
+  <span style="background-color:#0066B8;color:white;padding:6px 12px;border-radius:20px;">Azure DevOps</span>
+  <span style="background-color:#2B579A;color:white;padding:6px 12px;border-radius:20px;">Azure Key Vault</span>
+</div>
+
+#### 📊 BI / Monitoring / Reporting
+<div align="left">
+  <span style="background-color:#F2C811;color:black;padding:6px 12px;border-radius:20px;">Power BI</span>
+  <span style="background-color:#E97627;color:white;padding:6px 12px;border-radius:20px;">Tableau</span>
+  <span style="background-color:#232F3E;color:white;padding:6px 12px;border-radius:20px;">QuickSight</span>
+  <span style="background-color:#F46800;color:white;padding:6px 12px;border-radius:20px;">Grafana</span>
+  <span style="background-color:#E6522C;color:white;padding:6px 12px;border-radius:20px;">Prometheus</span>
+</div>
+
+#### 🧪 Research & Scientific Computing
+<div align="left">
+  <span style="background-color:#505050;color:white;padding:6px 12px;border-radius:20px;">Statistical Analysis</span>
+  <span style="background-color:#00599C;color:white;padding:6px 12px;border-radius:20px;">Parallel Computing</span>
+  <span style="background-color:#4682B4;color:white;padding:6px 12px;border-radius:20px;">Multithreading</span>
+</div>
+
+#### 🧰 Tools & Utilities
+<div align="left">
+  <span style="background-color:#FF6C37;color:white;padding:6px 12px;border-radius:20px;">Postman</span>
+  <span style="background-color:#FCC624;color:black;padding:6px 12px;border-radius:20px;">Linux</span>
+  <span style="background-color:#217346;color:white;padding:6px 12px;border-radius:20px;">Excel</span>
+  <span style="background-color:#5C2D91;color:white;padding:6px 12px;border-radius:20px;">Secure FTP</span>
+</div>
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-<a href="https://www.linkedin.com/in/svinayachanta"><img src="https://img.shields.io/badge/-SVinayAchanta-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:svinayachanta@gmail.com"><img src="https://img.shields.io/badge/-Email Me-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=svinayachanta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svinayachanta&layout=compact&exclude_lang=java+r&theme=tokyonight" />
+</p>
+
+---
+
+### 🏆 Certifications
+
+- 🎓 4x Microsoft Azure Data Engineer Certified  
+- 🎓 2x AWS Certified (incl. AWS Glue & Batch)  
+- 🎓 Databricks Lakehouse Fundamentals  
+- 🎓 PySpark for Big Data  
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/svinayachanta"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:svinayachanta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
