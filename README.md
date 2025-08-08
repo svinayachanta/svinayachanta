@@ -84,16 +84,24 @@
 
 ### 🏆 Certifications
 
-- 🎓 **4x Microsoft Azure Data Engineer Certified**
-- 🎓 **2x AWS Certified (inc. Glue, Batch)**
-- 🎓 **Databricks Lakehouse Fundamentals**
-- 🎓 **PySpark for Big Data**
+#### 🚀 Cloud & Data Engineering
+- 🟦 [Microsoft Certified: Azure Data Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/) — May 2024  
+- 🟧 [AWS Certified: Data Engineer – Associate](https://www.credly.com/badges/fc94c943-d7a9-443e-9b19-9fbb46aeab96) — May 2024  
+- 🟪 [Databricks Lakehouse Fundamentals](https://credentials.databricks.com/) — Jun 2024  
+- 🟪 [Microsoft Certified: Azure Data Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/) — Feb 2021  
+- 🟩 [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/) — Feb 2021  
+- 🟧 [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/) — Sep 2023  
 
----
+#### 📊 BI, Analytics & Visualization
+- 🟨 [Microsoft Certified: Power Platform Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/) — Dec 2021  
+- 🟦 [Tableau Desktop Specialist](https://www.credly.com/organizations/tableau) — Jun 2024  
+- 🟢 [HackerRank SQL (Advanced)](https://www.hackerrank.com/certificates) — May 2024  
 
-### 📬 Connect with Me
+#### 🧠 Big Data & Spark (Udemy)
+- ✔️ [Taming Big Data with Apache Spark and Python - Hands On!](https://www.udemy.com/certificate/UC-5cf11d72-a0a4-487f-b5c2-242debdf9c5a/) — Jun 2024  
+- ✔️ [Spark and Python for Big Data with PySpark](https://www.udemy.com/certificate/UC-5bd4e169-05d4-46b0-9e7a-fd6f30660439/) — Jun 2024  
+- ✔️ [The Ultimate Hands-On Hadoop](https://www.udemy.com/certificate/UC-8aedea8c-36e3-4d5a-9855-a5a17bed76fa/) — Jun 2024  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/svinayachanta"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:svinayachanta@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+#### 🛠️ DevOps & Programming
+- ✔️ [DevOps Project - CI/CD with Git, Jenkins, Ansible, Kubernetes](https://www.udemy.com/certificate/UC-2e2a2f1e-d20e-47b7-8b13-fd69adad6761/) — Mar 2023  
+- ✔️ [The Comple]()
