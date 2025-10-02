@@ -81,14 +81,6 @@
 ![Parallel Computing](https://img.shields.io/badge/Parallel%20Computing-00599C?style=for-the-badge)
 ![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-505050?style=for-the-badge)
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=svinayachanta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svinayachanta&layout=compact&exclude_lang=java+r&theme=tokyonight" />
-</p>
 
 ---
 
