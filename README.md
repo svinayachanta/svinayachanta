@@ -94,10 +94,4 @@
 
 ### 🏆 Certifications
 
-- Microsoft Certified: **Azure Data Engineer Associate**  
-- AWS Certified: **Data Engineer – Associate**  
-- Databricks **Lakehouse Fundamentals**  
-- Microsoft Certified: **Azure Data Fundamentals** • **Azure Fundamentals**  
-- AWS Certified **Cloud Practitioner**  
-- Microsoft Certified: **Power Platform Fundamentals**  
-- Tableau Desktop Specialist • HackerRank SQL (Advanced)
+#### Cloud & Data Engineering - Microsoft Certified: Azure Data Engineer Associate - AWS Certified: Data Engineer – Associate - Databricks Lakehouse Fundamentals - Microsoft Certified: Azure Data Fundamentals - Microsoft Certified: Azure Fundamentals - AWS Certified Cloud Practitioner #### BI, Analytics & Visualization - Microsoft Certified: Power Platform Fundamentals - Tableau Desktop Specialist - HackerRank SQL (Advanced) #### Big Data & Spark (Udemy) - Taming Big Data with Apache Spark and Python - Hands On! - Spark and Python for Big Data with PySpark - The Ultimate Hands-On Hadoop #### DevOps & Programming - DevOps Project - CI/CD with Git, Jenkins, Ansible, Kubernetes - The Complete SQL Bootcamp - The Complete Python Bootcamp
