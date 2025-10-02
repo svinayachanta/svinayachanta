@@ -37,7 +37,7 @@
 ![Star Schema](https://img.shields.io/badge/Star%20Schema-0A66C2?style=for-the-badge)
 ![Snowflake Schema](https://img.shields.io/badge/Snowflake%20Schema-00599C?style=for-the-badge)
 ![Inmon Methodology](https://img.shields.io/badge/Inmon%20Methodology-6C757D?style=for-the-badge)
-![SCD1%2F2](https://img.shields.io/badge/SCD1%2F2-444444?style=for-the-badge)
+![SCD%2](https://img.shields.io/badge/SCD1%2F2-444444?style=for-the-badge)
 ![Snapshots](https://img.shields.io/badge/Snapshots-6C757D?style=for-the-badge)
 ![SQL%20Performance](https://img.shields.io/badge/SQL%20Performance-1F6FEB?style=for-the-badge)
 ![dbt%20Tests%20%26%20Contracts](https://img.shields.io/badge/dbt%20Tests%20%26%20Contracts-FF6F00?style=for-the-badge)
